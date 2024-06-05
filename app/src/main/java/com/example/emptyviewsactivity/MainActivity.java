@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String TAG = "новая активность";
+    public static final String TAG = "new activity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
