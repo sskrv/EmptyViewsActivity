@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EmptyViewsActivity</string>
+    <string name="hello_message">Hello World, Android</string>
 </resources>
